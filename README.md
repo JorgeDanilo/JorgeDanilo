@@ -3,8 +3,33 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedanilogomessilva//)](https://www.linkedin.com/in/jorgedanilogomessilva/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@danilo91519188)](https://medium.com/@danilo91519188)
 
-**Android Developer** Possuo experiência na área de desenvolvimento de softwares de alta complexidade. Dentre eles estão Polícia Rodoviária Federal, Tribunal Regional Eleitoral do Estado do Tocantins, Análise de Compatibilidade Sanguínea, Defensoria Publica do Distrito Federal, Sistemas Estatísticos para Banco do Brasil, Módulos Farmacêuticos, aplicativos mobiles, . Conhecimento avançado nas tecnologias Java, Spring Boot, Spring Data, Kotlin.
-Trabalho atualmente como Mobile Developer, usando as tecnologias Java, Kotlin, Retrofix, Rx, Corroutines, JetPack Compse, bem como React-Native com Typescript, Custom Hooks, React Navigation, Zustand, Tan Stack Query, juntamente com testes unitários Junit e Mockito e instrumentados com Espresso, MockServer.
+**Android Developer** Android Developer com +8 anos construindo soluções robustas, escaláveis e com foco no usuário final
+
+Com mais de 8 anos de experiência em desenvolvimento de software, venho atuando de forma estratégica na construção de produtos mobile de alto impacto, passando por empresas como Itaú e Catho, onde contribuí diretamente para o desenvolvimento de funcionalidades críticas e melhorias contínuas que geraram valor para o negócio e o usuário.
+
+Tenho profundo domínio na stack Android moderna, aplicando arquiteturas limpas (Clean Architecture), princípios SOLID e práticas como MVVM, MVP e MVI testes automatizados e desenvolvimento orientado à performance e manutenibilidade. Também atuo como referência técnica no time, auxiliando nas tomadas de decisão arquitetural, revisão de código, onboarding e mentoria de desenvolvedores.
+
+🔧 Stack que domino e aplico com profundidade:
+
+-Linguagens: Kotlin, Java, React Native
+-Arquitetura: MVVM, MVP, Clean Architecture
+-Reatividade: Coroutines, RxJava, Zustand
+-UI: Jetpack Compose, ViewBinding
+-Networking: Retrofit, Ktor, Axios
+-Injeção de dependência: Koin, Hilt Dagger
+-Testes: JUnit, Espresso, Mockito, MockServer
+
+🚀 Minhas entregas vão além do código:
+
+-Atuação como pilar técnico em squads ágeis de alta performance
+-Suporte na definição de estratégias técnicas, priorização de tarefas e revisão de arquitetura
+-Melhoria de processos internos e cultura de qualidade
+-Redução de crashes em produção e aumento da performance dos apps
+-Foco constante em experiência do usuário e estabilidade
+
+🎓 Sou pós-graduado com MBA em Gestão de Projetos, o que me dá uma visão ampliada sobre alinhamento entre tecnologia e negócios. Tenho facilidade para traduzir requisitos técnicos em valor real e atuar de forma transversal com produto, design e QA.
+
+📊 Fora da rotina mobile, tenho interesse ativo em análise de dados e machine learning, áreas que estudo para ampliar minha visão técnica e estratégica.Android
 
 <br>
 
