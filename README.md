@@ -3,10 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedanilogomessilva//)](https://www.linkedin.com/in/jorgedanilogomessilva/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@danilo91519188)](https://medium.com/@danilo91519188)
 
-<p align="center">
-  <img src="Banner.gif" alt="animated" />
-</p>
-
 **Android Developer** Possuo experiência na área de desenvolvimento de softwares de alta complexidade. Dentre eles estão Polícia Rodoviária Federal, Tribunal Regional Eleitoral do Estado do Tocantins, Análise de Compatibilidade Sanguínea, Defensoria Publica do Distrito Federal, Sistemas Estatísticos para Banco do Brasil, Módulos Farmacêuticos, aplicativos mobiles, . Conhecimento avançado nas tecnologias Java, Spring Boot, Spring Data, Kotlin.
 Trabalho atualmente como Mobile Developer, usando as tecnologias Java, Kotlin, Retrofix, Rx, Corroutines, JetPack Compse, bem como React-Native com Typescript, Custom Hooks, React Navigation, Zustand, Tan Stack Query, juntamente com testes unitários Junit e Mockito e instrumentados com Espresso, MockServer.
 
